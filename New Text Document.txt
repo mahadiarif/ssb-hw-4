@@ -1,0 +1,29 @@
+আজকের ক্লাস টপিকঃ
+1. audio,video,iframe (embed), google map, youtube video.
+2. b, strong, em, i এর পার্থক্য।
+3. list
+4. table
+5. br, hr
+6. semantic markup
+7. non semantic markup
+css:
+1. syntax
+2. inline css
+3. internal css
+4. external css
+5. measurement unit: px,pt,%,em,rem
+6. selector
+7. property
+8. value ✔
+9. power
+10. selector power
+11. layout
+12. blocklevel and inline element
+13. floating
+14. overflow
+15. margin, padding
+হোম ওয়ার্কঃ
+1. গতদিনের ৫০ টা ট্যাগের পর বাকিগুলো প্রাকটিস করে গিটহাবে তুলে লিংক সাবমিট করা। (from this link: https://www.w3schools.com/tags/default.asp )
+2. কিছু বুলিয়ান এট্রিবিউট গুগলে সার্চ করে প্রাকটিস করে গিটহাবে তুলে লিংক সাবমিট করা।
+3. গুগল সার্চ করে সিমেনটিক এবং নন সিমেনটিক এর লিস্ট তৈরি করে কনটেন্ট বসিয়ে ইউজ করে প্রাকটিস করে গিটহাবে তুলে লিংক সাবমিট করা।
+৩ টা হোম ওয়ার্ক আলাদা আলাদা ফাইল করে করা লাগবেনা। একটা index.html এ করলেই হবে। কমেন্ট বক্সে একটা github লিংক কমেন্ট করলেই হবে।
